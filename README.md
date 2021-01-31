@@ -1,1 +1,2 @@
 # medusa
+Diving Blog
